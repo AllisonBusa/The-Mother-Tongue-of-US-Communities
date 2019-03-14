@@ -1,6 +1,6 @@
 # What is the Mother Tongue of U.S. Communities?
 
-By watching the news, a person can assume that diversity is increasingly rapidly in the United States. While the Census has praised the U.S. for becoming overall more racial and ethnically diverse, FOX newscaster Tucker Carlson has claimed that the rise of immigrants in the U.S. is not happening in "politicians' neighborhoods" and that the increase of racial and cultural groups from non-western countries is changing the culture in American towns to an unprecedented and unmanageable degree. (See Project Proposal)
+By watching the news, a person can assume that diversity is increasing rapidly in the United States. While the Census has praised the U.S. for becoming overall more racial and ethnically diverse, FOX newscaster Tucker Carlson has claimed that the rise of immigrants in the U.S. is not happening in "politicians' neighborhoods" and that the increase of racial and cultural groups from non-western countries is changing the culture in American towns to an unprecedented and unmanageable degree. (See Project Proposal)
 
 We wanted to take these two clashing statements and put them both to the test. Has cultural diversity, measured through linguistic diversity, increased significantly in the past few years? How is cultural diversity, through linguistic diversity, spread out throughout the U.S.? Are regions with high ratios of non-English speakers actually linguistically diverse or homogeneously consisting of a non-English speaking community?
 
@@ -8,15 +8,17 @@ In the U.S., citizens are required to answer the Census, including the questions
 
 Armed with this Census data about languages spoken at home, we decided to investigate Tucker Carlson's claim...
 
-We started by creating a table that shows the temporal and spatial changes of linguistic diversity at the state level.
+We started by creating two tables that shows the temporal and spatial changes of linguistic diversity at the state level. The first table shows the ten states with the greatest percentage of SONELAHs and the second table shows the ten states with the smallest percentage of SONELAHs.
 
 <p align="center">
   ![](RankOfSONELAHs.png)
 </p>
 
-California consistently has the highest percent of SONELAHs. We attributed this to a few different reasons. California previously belonging to Mexico means that there possibly is a higher percentage of Spanish speakers. California being a coastal state that contains many large cities means that it has a lot of places that are practical for an immigrant to come to when immigrating. Similarly, for New Mexico and Texas, which consistently are ranked second and third, we assume that there is Latin heritage is prevalent, due to the regions being once part of Mexico.
+California consistently has the highest percent of SONELAHs. We attributed this to a few different reasons. California previously belonging to Mexico means that there possibly is a higher percentage of Spanish speakers. California being a coastal state that contains many large cities means that it has a lot of places that are practical for an immigrant to come to when immigrating. Similarly, for New Mexico and Texas, which consistently are ranked second and third, we assume that there is Latin heritage is prevalent, due to the regions being once part of Mexico. The table informs us that the highest percentage of SONELAHs in any state has gone from 39 percent to 43 percent in 13 years. The change is not large, but it does show that there are areas with a very large number of SONELAHs.
 
 Also note that New York, which contains New York City - a place that is synonymous with immigration- is ranked fourth in 2000 and 2006-2008. In the 2009 to 2013 period, it loses its fourth place spot to New Jersey, which has been increasing in rank for every period.
+
+West Virginia has the lowest number of SONELAHs and has consistently stayed at about 2 percent for the entire range of time we are analyzing. This is interesting because West Virginia is a very small state which means that the number of SONELAHs within the state must be very small, especially in comparison to most of the other states in the country.
 
 Looking at the state level, however, does not tell us a lot about communities. Looking at the county level, we can infer what a community might look like.
 
