@@ -14,13 +14,13 @@ We started by creating two tables that shows the temporal and spatial changes of
 Rank of Top Ten States' Percentages of SONELAHs
 </p>
 <p align="center">
-<img src ="./RankOfSONELAHs.png"/>
+  ![](RankOfSONELAHs.png)
 </p>
 <p align="center">
 Rank of Bottom Ten States' Percentages of SONELAHs
 </p>
 <p align="center">
-<img src ="./low_states.png"/>
+![](low_states.png)
 </p>
 California consistently has the highest percent of SONELAHs. We attributed this to a few different reasons. California previously belonging to Mexico means that there possibly is a higher percentage of Spanish speakers. California being a coastal state that contains many large cities means that it has a lot of places that are practical for an immigrant to come to when immigrating. Similarly, for New Mexico and Texas, which consistently are ranked second and third, we assume that there is Latin heritage is prevalent, due to the regions being once part of Mexico.
 
@@ -33,7 +33,7 @@ Looking at the state level, however, does not tell us a lot about communities. L
 Using the two datasets which specified counties, 2000 and 2009-2013, we plotted change in the PMF of SONELAHs per county in California.
 
 <p align="center">
-<img src ="./PMF_CA.png"/>
+  ![](PMF_CA.png)
 </p>
 
 Los Angeles has the largest population, and thus, the largest number of SONELAHs. However, Los Angeles is a major city in a geographically large state. We see that the distribution of percentage of SONELAHs is more widely spread with so many different places to sample. For example, Los Angeles has the most SONELAHs, at more than 50 % of the population, while Placer County has only about 10 % of its population consist of SONELAHs. That is like every other person being a SONELAH to every tenth person being a SONELAH.
@@ -43,7 +43,7 @@ We want to also know if these people represent one culture, or many cultures. On
 We graphed the counties of California again, this time showing the percentages of SONELAHs in these language groups:  
 
 <p align="center">
-<img src ="./PMF_CA_Groups.png"/>
+  ![](PMF_CA_Groups.png)
 </p>
 
 We see a large population of Spanish and Asian language SONELAHs. This is a result we were expecting, considering the history of Asian immigration to California and the Latin heritage of a state that was formerly part of Mexico.
@@ -57,7 +57,7 @@ We chose to look at Pennsylvania, which ranked low in percentage of SONELAHs, bu
 To do so, we graphed the PMF of the previous four language groups:
 
 <p align="center">
-<img src ="./PMF_PA_Groups.png"/>
+  ![](PMF_PA_Groups.png)
 </p>
 
 We can immediately spot an anomaly in Lancaster County : it has a large percentage of Germanic, Italian and/or Scandinavian SONELAHs. Lancaster county is known as a Pennsylvania Dutch county, meaning it is a county in which Pennsylvania Dutch, a variety of German, was created.
